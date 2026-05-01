@@ -1,7 +1,0 @@
-node_modules
-.git
-.vscode
-*.log
-dist
-public
-bun.lockb
